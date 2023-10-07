@@ -19,7 +19,9 @@ N/A
 
 ## Usage
 
-Using this Study Guide is easy, you can review the notes in each section for some tips. If you look in the Console Tab in Chrome Dev Tools, you will even be able to get prompts on what to study next!
+- Using this Study Guide is easy, you can review the notes in each section for some tips. 
+
+- If you look in the Console Tab in Chrome Dev Tools, you will even be able to get prompts on what to study next!
 
 ## Credits
 
